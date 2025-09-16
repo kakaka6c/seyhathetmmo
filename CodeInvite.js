@@ -36,12 +36,6 @@
 
     // === DANH SÁCH EMAIL HAY DÙNG ===
     const favoriteEmails = [
-        "manhcongviec2001@gmail.com",
-        "manhvipro2001@gmail.com",
-        "manhdc01@gmail.com",
-        "huumanhdc2001@gmail.com",
-        "trungkien13082001@gmail.com",
-        "homnaylatest11@gmail.com"
     ];
 
     // === TẠO POPUP FORM ===
